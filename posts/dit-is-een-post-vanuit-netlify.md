@@ -1,7 +1,7 @@
 ---
 title: Dit is een post vanuit Netlify
 date: 2020-06-10T05:46:13.719Z
-author: Dan Urbanowicz
+author: Jane Doe
 summary: Een korte samenvatting
 tags:
   - post
